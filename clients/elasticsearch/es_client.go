@@ -4,7 +4,7 @@ import (
 	"context"
 	"fmt"
 	"github.com/abhilashdk2016/bookstore_utils_go/logger"
-	"gopkg.in/olivere/elastic.v7"
+    "github.com/olivere/elastic/v7"
 	"time"
 )
 
